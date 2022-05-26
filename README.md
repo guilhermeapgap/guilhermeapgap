@@ -12,7 +12,7 @@
 <br>
 
 - 🔭 Estou trabalhando com Front-end
-- 🌱 Estou aprendendo Node.js
+- 🌱 Estou estudando Node.js e React.js
 ## 
 
 <div align="center">
