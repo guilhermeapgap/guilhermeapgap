@@ -12,7 +12,7 @@
 <br>
 
 - 🔭 Estou trabalhando com Front-end
-- 🌱 Analise de dados 
+- 🌱 Estudando analise de dados 
 ## 
 
 <div align="center">
